@@ -1,5 +1,5 @@
 # Simple Multigraph Convolution Networks (SMGCN)
-Pytorch implementation of the paper [WWW'2024] "Simple Multigraph Convolution Networks"
+Pytorch implementation of the paper [WWW'2024] ["Simple Multigraph Convolution Networks"](https://arxiv.org/abs/2403.05014)
 ![](imgs/smgcn.png)
 
 ## TL;DR
